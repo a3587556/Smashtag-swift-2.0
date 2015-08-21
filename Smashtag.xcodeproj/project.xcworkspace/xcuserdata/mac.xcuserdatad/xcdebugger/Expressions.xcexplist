@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Smashtag.TweetTableViewController.nextRequestToAttempt.getter : Swift.Optional&lt;Smashtag.TwitterRequest&gt;:TweetTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchText?.characters.count != 0">
+            </PersistentString>
+            <PersistentString
+               value = "searchText?.characters.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
